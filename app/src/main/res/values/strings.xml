@@ -1,0 +1,19 @@
+<resources>
+    <string name="hello">Hello</string>
+    <string name="app_name">CashDrop</string>
+    <string name="title_activity_login">Log In</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="password">Password:</string>
+    <string name="sign_in">Sign In</string>
+    <string name="create_account">Create Account</string>
+    <string name="your_email_address">Email Address:</string>
+    <string name="enter_email">Enter email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+</resources>

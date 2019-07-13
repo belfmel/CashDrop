@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "300872762750",
+    "firebase_url": "https://cashdrop-abb3c.firebaseio.com",
+    "project_id": "cashdrop-abb3c",
+    "storage_bucket": "cashdrop-abb3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300872762750:android:4072f13face29dcd",
+        "android_client_info": {
+          "package_name": "com.example.cashdrop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300872762750-bk91nvstf68195nivn7jgbgsausrkme6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cashdrop",
+            "certificate_hash": "12f4701cc7a77329382487e0e2cfa35620a5d23d"
+          }
+        },
+        {
+          "client_id": "300872762750-f2gufuqvts0769ei5c3o983v2ji9da1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd8PPAeotFUHWN0ek15p4l3SZ8oegsEqk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300872762750-f2gufuqvts0769ei5c3o983v2ji9da1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
